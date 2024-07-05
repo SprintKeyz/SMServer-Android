@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMServer</string>
+<!--    <string name="web_hostname">kibana.lt.loc</string> Doesnt works-->
+    <string name="web_url_remote">davisimessageserver198.duckdns.org/</string>
+    <string name="web_url_local">http://192.168.40.24:29821</string>
+    <string name="hostname_local">192.168.40.24:29821</string>
+    <string name="hostname_remote">duckdns.org</string>
+    <string name="local_ssid">Davis</string>
+</resources>
+
+    <!-- To use file as web_url, set it to; "file:///android_asset/index.html"); -->
